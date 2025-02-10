@@ -1,0 +1,12 @@
+body{
+  background-color: red;
+  display:grid;
+  justify-content: center;
+  padding-top: 300px;
+}
+
+button{
+  height: 100px;
+  width: 200px;
+  border-radius: 100px;
+}
