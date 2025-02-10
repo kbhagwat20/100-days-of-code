@@ -1,0 +1,41 @@
+body{
+  background-color: antiquewhite;
+}
+
+.container{
+  display:grid;
+  justify-content: center;
+  padding-top: 150px;
+  
+}
+
+.display-counter{
+  display:grid;
+  justify-items: center;
+  font-size: 100px;
+  
+}
+
+.button{
+  display: flex;
+
+}
+
+button{
+  padding: 2px;
+  margin: 2px;
+  height:50px;
+  width: 100px;
+  
+}
+
+.add-btn{
+  background-color: chocolate;
+}
+.sub-btn{
+  background-color: chartreuse;
+}
+
+.reset-btn{
+  background-color: cyan;
+}
